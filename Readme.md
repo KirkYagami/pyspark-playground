@@ -21,7 +21,8 @@ make run-scaled
 ```
 
 ---
-1. 
+
+1. Get into the master to make changes to the configuration files
 ```shell
 docker exec -it da-spark-master /bin/bash
 ```
