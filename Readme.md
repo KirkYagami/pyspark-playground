@@ -1,5 +1,5 @@
 # About the repo
-
+`I = "Original author"`
 I started this repo because I wanted to learn PySpark.
 However, I also didn't want to use Jupyter notebook as it
 is typically the case in the examples I came across. 
