@@ -33,8 +33,8 @@ docker exec -it da-spark-master /bin/bash
 
 
 # Set everything to be logged to the console
-rootLogger.level = error
-rootLogger.appenderRef.stdout.ref = console
+`rootLogger.level = error`
+`rootLogger.appenderRef.stdout.ref = console`
 
 To save the changes you made in vi, ensure you are in command mode by pressing Esc.
 Type :w and press Enter. This command writes (saves) the file.
