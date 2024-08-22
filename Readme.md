@@ -1,15 +1,3 @@
-# About the repo
-`I = "Original author"`
-I started this repo because I wanted to learn PySpark.
-However, I also didn't want to use Jupyter notebook as it
-is typically the case in the examples I came across. 
-
-Therefore, I started with setting up a spark cluster 
-using docker. 
-
-
-
-
 # Running the code (Spark standalone cluster)
 You can run the spark standalone cluster by running:
 ```shell
