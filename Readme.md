@@ -15,7 +15,7 @@ make run-scaled
 docker exec -it da-spark-master /bin/bash
 ```
 2. `cd /opt/spark/conf`
-3. mv log4j2.properties.template log4j.properties
+3. mv log4j2.properties.template log4j2.properties
 4. `vi log4j.properties`
 5. Update the log from `info` to `Error`
 
